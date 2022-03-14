@@ -1,0 +1,20 @@
+ul li {
+    font-size: 20px;
+    color: rgb(177, 177, 177);
+    border-top: 2px solid rgb(133, 117, 117);
+    border-style: groove;
+    border-right: hidden;
+    border-left: hidden;
+    border-bottom: hidden;
+    font-family: fantasy;
+}
+
+ul li:hover {
+    background-color: #5a6474;
+}
+ul li {
+    border-bottom: 2px solid rgb(133, 117, 117);;
+    border-style: groove;
+    border-right: hidden;
+    border-left: hidden;
+}

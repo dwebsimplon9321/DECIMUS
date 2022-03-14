@@ -1,0 +1,32 @@
+
+
+
+.invoice {
+    float: right;
+    margin-top: -5%;
+}
+
+.signa {
+    float: right;
+    margin-top: -12%;
+}
+
+.logo {
+    background-color: #74375e;
+    height: 380px;
+}
+.logo > img {
+    width: 15%;
+    margin-left: 45%;
+    margin-top: 30%;
+}
+
+
+.table {
+    margin-bottom: 10%;
+}
+
+.PM {
+    margin-top: -2%;
+}
+
